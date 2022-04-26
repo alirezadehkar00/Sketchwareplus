@@ -1,0 +1,6 @@
+{
+  "تبلیغ": "غیرفعال",
+  "عکس": "https://s6.uupload.ir/files/negar_۲۰۲۲۰۴۰۷_۱۳۱۸۲۰_m09e.png",
+  "لینک": "https://instagram.com/alirezadehkar_?igshid\u003dYmMyMTA2M2Y\u003d",
+  "متن": "تخفیف ویژه!"
+}
